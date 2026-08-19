@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hugo 👋
 
-<!--
-**HugoDSD/HugoDSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Student in **IT for Finance** @ Efrei Paris.  
+Aspiring **Software Engineer in finance** focused on high-performance backend systems, quantitative algorithms, and cloud architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C#, SQL 
+- **Frameworks & Libs:** FastAPI, ASP.NET Core, Entity Framework Core, React
+- **Databases & Queues:** PostgreSQL, SQLite, RabbitMQ
+- **DevOps & Testing:** Docker, Git, Locust
+
+---
+
+### 🚀 Key Projects
+- **[CryptoSim Pro](https://github.com/HugoDSD/CryptoSim-Pro-Web-Based-Cryptocurrency-Trading-Platform)** — Real-time cryptocurrency trading simulation platform & quantitative allocation engine.
+
+---
+
+### 📬 Connect with me
+- **LinkedIn:** [Hugo De Sousa Dias](https://www.linkedin.com/in/hugo-desousadias)
+- **Email:** hugo3dias@gmail.com
